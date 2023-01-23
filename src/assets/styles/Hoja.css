@@ -1,0 +1,42 @@
+.a{
+    display: flex;
+    position: absolute;
+    left: 19px;
+    position: center;
+    width: 200px;
+    height: 1257px;
+    background: #82512C;
+    display: flex;
+  flex-direction: column;
+    }
+
+    
+
+
+.img1 {
+    display: flex;
+    width: 157px;
+    height: 158px;
+    
+}
+
+.img2 {
+    display: flex;
+    width: 157px;
+    height: 158px;
+    
+}
+
+.img3{
+    display: flex;
+    width: 157px;
+    height: 158px;
+    
+}
+.img4{
+    display: flex;
+    width: 157px;
+    height: 158px;
+    
+}
+

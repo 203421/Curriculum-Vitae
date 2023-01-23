@@ -1,0 +1,12 @@
+div{
+    display: flex;
+   flex-direction: column;
+   border: 1% rgb(0, 0, 0) solid;
+   background-color: #42527B;
+   align-items: center;
+   margin: 80px;
+}
+
+body{
+    color: rgb(0, 0, 0);
+}   

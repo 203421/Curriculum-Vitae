@@ -1,0 +1,11 @@
+
+.IMG{
+  display: flex;
+height: 223px;
+border-radius: 5px;
+align-items: center;
+justify-content: center;
+border-style:groove
+
+
+}
