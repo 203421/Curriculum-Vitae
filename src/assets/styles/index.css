@@ -2,7 +2,7 @@ div{
     display: flex;
    flex-direction: column;
    border: 1% rgb(0, 0, 0) solid;
-   background-color: #42527B;
+   background-color: #034aff;
    align-items: center;
    margin: 80px;
 }
